@@ -1,0 +1,25 @@
+companies:
+  - company_id: hdfc_bank
+    company_name: HDFC Bank
+    industry: Banking
+    reviews_url: https://www.ambitionbox.com/reviews/hdfc-bank-reviews
+    
+  - company_id: infosys
+    company_name: Infosys
+    industry: IT Services
+    reviews_url: https://www.ambitionbox.com/reviews/infosys-reviews
+    
+  - company_id: tcs
+    company_name: Tata Consultancy Services
+    industry: IT Consulting
+    reviews_url: https://www.ambitionbox.com/reviews/tata-consultancy-services-reviews
+    
+  - company_id: bharti_airtel
+    company_name: Bharti Airtel
+    industry: Telecommunications
+    reviews_url: https://www.ambitionbox.com/reviews/bharti-airtel-reviews
+    
+  - company_id: sun_pharma
+    company_name: Sun Pharmaceutical Industries
+    industry: Pharmaceutical Manufacturing
+    reviews_url: https://www.ambitionbox.com/reviews/sun-pharmaceutical-industries-reviews
